@@ -16,10 +16,6 @@ The library grants users an option to reset their password, users can click on `
 The library also sets encrypted cookies to remember and automatically authenticate the users without password. \
 The users can logout using the ```Logout``` button.
 
-
-## Authors
-- [@gauriprabhakar](https://github.com/GauriSP10)
-
 ## PyPi
 https://pypi.org/project/streamlit-login-auth-ui/
 
@@ -110,12 +106,3 @@ __Cookies are automatically created and destroyed depending on the user authenti
 
 ## Version
 v0.2.0
-
-## License
-[MIT](https://github.com/GauriSP10/streamlit_login_auth_ui/blob/main/LICENSE)
-
-
-
-
-
-
